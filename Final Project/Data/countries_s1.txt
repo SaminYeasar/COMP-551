@@ -1,0 +1,33 @@
+Score for iteration 100
+Hits@1:  1.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+mrr:  1.0000
+
+Score for iteration 200
+Hits@1:  1.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+mrr:  1.0000
+
+Score for iteration 300
+Hits@1:  1.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+mrr:  1.0000
+
+Best model from batch number  100
+Test (beam) scores with best model from output/countries_s1//b76e_2_0.05_50_0.05/model/model.ckpt
+Hits@1:  1.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+mrr:  1.0000
+
